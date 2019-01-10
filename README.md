@@ -1,2 +1,2 @@
 # chatnode
-Chat criado em node
+Chat criado em Node para apreendizado junto com React
